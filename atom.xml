@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ZeroDaemon's Blog]]></title>
+  <link href="http://zerodaemon.github.io/atom.xml" rel="self"/>
+  <link href="http://zerodaemon.github.io/"/>
+  <updated>2013-12-21T22:25:00+08:00</updated>
+  <id>http://zerodaemon.github.io/</id>
+  <author>
+    <name><![CDATA[ZeroDaemon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
