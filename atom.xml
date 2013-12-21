@@ -4,7 +4,7 @@
   <title><![CDATA[ZeroDaemon's Blog]]></title>
   <link href="http://zerodaemon.github.io/atom.xml" rel="self"/>
   <link href="http://zerodaemon.github.io/"/>
-  <updated>2013-12-21T22:25:00+08:00</updated>
+  <updated>2013-12-21T22:45:25+08:00</updated>
   <id>http://zerodaemon.github.io/</id>
   <author>
     <name><![CDATA[ZeroDaemon]]></name>
@@ -12,5 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[测试文章]]></title>
+    <link href="http://zerodaemon.github.io/blog/2013/12/21/my-test/"/>
+    <updated>2013-12-21T22:39:43+08:00</updated>
+    <id>http://zerodaemon.github.io/blog/2013/12/21/my-test</id>
+    <content type="html"><![CDATA[<p>这是一篇测试文章</p>
+
+<pre><code>echo "Hello ZeroDaemon"
+</code></pre>
+]]></content>
+  </entry>
   
 </feed>
